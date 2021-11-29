@@ -2,5 +2,5 @@
 
 <div align="center">
   <img width="100%" src="./images/screen-404.png"/>
-  <a href="https://deyvi-dev.github.io/404-not-found/">CLick aqui e confira!<a>
+  <a href="https://deyvi-dev.github.io/404-not-found/">Click aqui e confira!<a>
  </div>
